@@ -4,5 +4,5 @@ A problem set to learn JS from [Leetcode](https://leetcode.com/studyplan/30-days
 
 **Analysis & Solve**
 
-**Day 1-Closures**
+**Day 1-Closures** <br>
 **Day 5-Basic Array Transformations**
